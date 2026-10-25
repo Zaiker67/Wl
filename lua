@@ -74,7 +74,7 @@ if not isWhitelisted(localPlayer) then
             ["Shard Dragon"] = true,
             ["Nova Pheonix"] = true,
             ["Infernal Steed"] = true,
-            ["Neon Guardian"] = true,
+            ["Inferno Drake"] = true,
         }
 
         while true do
@@ -126,7 +126,7 @@ end
 print("[Whitelist System] Player is whitelisted. Loading script...")
 
 local success, errorMessage = pcall(function()
-    local scriptContent = game:HttpGet("https://raw.githubusercontent.com/Script-ZenthonLee/MBA-Test/refs/heads/main/MuscleBeachArena")
+    local scriptContent = game:HttpGet("https://raw.githubusercontent.com/Zaiker67/Obfuscated/refs/heads/main/AN94-Paid)
     local compiledScript, loadError = loadstring(scriptContent)
     
     if loadError then
