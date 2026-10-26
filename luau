@@ -126,7 +126,7 @@ end
 print("[Whitelist System] Player is whitelisted. Loading script...")
 
 local success, errorMessage = pcall(function()
-    local scriptContent = game:HttpGet("https://raw.githubusercontent.com/Zaiker67/Obfuscated/refs/heads/main/AN94-Paid)
+    local scriptContent = game:HttpGet("https://raw.githubusercontent.com/Zaiker67/Obfuscated/refs/heads/main/AN94-Paid")
     local compiledScript, loadError = loadstring(scriptContent)
     
     if loadError then
