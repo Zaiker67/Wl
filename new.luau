@@ -13,6 +13,9 @@ local WHITELISTED_USERS = {
     "huhseller09",
     "MOBPSYCHO850",
     "cham_lucky",
+    "Mcjanmapatac123",
+    "DJ_Bumbai3",
+    "Itsme_Omskun",
     "santos0123078"
 }
 
