@@ -18,6 +18,7 @@ local WHITELISTED_USERS = {
     "Itsme_Omskun",
     "Kian_09629",
     "Kian_alt157",
+    "Gamestyeop",
     "santos0123078"
 }
 
